@@ -278,6 +278,7 @@ If you have any disconnect issue check the `manifest.json` at these useful repos
 - [asusevski/opendota-mcp-server](https://github.com/asusevski/opendota-mcp-server) - Interact with OpenDota API to retrieve Dota 2 match data, player statistics, and more.
 - [syucream/lightdash-mcp-server](https://github.com/syucream/lightdash-mcp-server) - Interact with [Lightdash](https://www.lightdash.com/), a BI tool.
 - [kagisearch/kagimcp](https://github.com/kagisearch/kagimcp) - The Official Model Context Protocol (MCP) server for Kagi search & other tools.
+- [azmartone67/dchub-desktop-extension](https://github.com/azmartone67/dchub-desktop-extension) - DC Hub: live data-center, power, grid and fiber data for site selection. Its Data Center Power Index (DCPI) scores where data centers can get grid power across 300+ markets daily. 94 MCP tools; install the `.mcpb` extension or connect remotely at `https://dchub.cloud/mcp`.
 
 ### AI Systems
 
